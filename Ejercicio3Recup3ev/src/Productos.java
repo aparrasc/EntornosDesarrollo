@@ -14,9 +14,9 @@ public class Productos {
    * 
    * @element-type Pedido
    */
-  public Vector  consta de;
+  public Vector  consta_de; //Lo he unido con un "_" para que no de error.
 
-  public void stockRetrasos( cod) {
+  public void stockRetrasos(int cod) {
   }
 
 }
