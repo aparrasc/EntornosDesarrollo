@@ -1,3 +1,4 @@
+import java.util.Date;
 public class Tarjeta extends FormaPago {
 
   public Date Fecha_c;
